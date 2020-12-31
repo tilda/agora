@@ -8,4 +8,4 @@ my current peripherals are a Corsair K55 (membrane) "gaming" keyboard, a Logitec
 
 probably in january 2021, i will be upgrading. the cpu is okay, but the integrated graphics are absolute crap on anything beyond low settings. it also takes 2GB of RAM away as dedicated VRAM - so you are only able to use around 6GB of RAM in this machine. not to mention, the storage is way too confined for someone like me who doesn't just use this computer for basic tasks.
 
-i'm considering an all AMD build (CPU + GPU), though i may go nvidia on GPU for nvenc (heavily considering streaming). i will probably be buying from [Micro Center](https://microcenter.com) or [Amazon](https://amazon.com), with the former being more likely due to the store being specialized in electronics with a good reputation for computer parts.
+i'm considering an all AMD build (CPU + GPU), though i may go nvidia on GPU for nvenc (heavily considering streaming for fun). i will probably be buying from [Micro Center](https://microcenter.com) or [Amazon](https://amazon.com), with the former being more likely due to the store being specialized in electronics with a good reputation for computer parts.
