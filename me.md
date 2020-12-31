@@ -1,6 +1,6 @@
 # me
 
-hi! i'm *tilda*. i'm an aspiring full-stack [[dev]], and i like watching [[anime]] sometimes.
+hi! i'm *tilda*. i'm an aspiring full-stack [[dev]], and i like watching [[anime]] sometimes. also a [[person]] :).
 
 if you'd like, you can check out my website at [tda.wtf](https://tda.wtf)
 
