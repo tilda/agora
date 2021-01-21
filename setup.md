@@ -4,8 +4,8 @@ i currently do everything on an [HP Desktop M01-F0014](https://www.bestbuy.com/s
 
 my current peripherals are a Corsair K55 (membrane) "gaming" keyboard, a Logitech G203 "gaming" mouse, and a Westinghouse TV from years ago.
 
-## upgrade plans
+## upgrades? upgrades.
 
-probably in january 2021, i will be upgrading. the cpu is okay, but the integrated graphics are absolute crap on anything beyond low settings. it also takes 2GB of RAM away as dedicated VRAM - so you are only able to use around 6GB of RAM in this machine. not to mention, the storage is way too confined for someone like me who doesn't just use this computer for basic tasks.
+this computer is too confined for my usages - the graphics don't work very well on games, not to mention it uses 2GB of my RAM as VRAM, so i'm always using at least 70% of the RAM in the machine just doing usual business (that might just be Windows though).
 
-i'm considering an all AMD build (CPU + GPU), though i may go nvidia on GPU for nvenc (heavily considering streaming for fun). i will probably be buying from [Micro Center](https://microcenter.com) or [Amazon](https://amazon.com), with the former being more likely due to the store being specialized in electronics with a good reputation for computer parts.
+on the 20th of January I bought a CyberpowerPC tower, which should be arriving a few days after. the specs are around average - i5-10400F, 1660 Super, 8GB RAM, 500GB SSD. still miles better than my current setup!
