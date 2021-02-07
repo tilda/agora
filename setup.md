@@ -1,11 +1,13 @@
 # setup
 
-i currently do everything on an [HP Desktop M01-F0014](https://www.bestbuy.com/site/hp-desktop-amd-ryzen-3-series-8gb-memory-256gb-solid-state-drive-jet-black/6366134.p?skuId=6366134) (bought from Best Buy, around $500 inc. tax). it has a Ryzen 3 3200G, 8GB RAM, and around 240GB of usable SSD storage.
+my current computer is a [CyberPowerPC GXiVR8060A10](https://www.amazon.com/CyberpowerPC-Xtreme-i5-10400F-GeForce-GXiVR8060A10/dp/B08FBK2DK5?ref_=ast_sto_dp) (Amazon link). it has a i5-10400F, a 1660 Super, 8GB RAM, and a 512GB SSD. also pretty lights on the case.
+
+it does it's job quite well. and considering the current computer part shortages it's not a bad buy.
 
 my current peripherals are a Corsair K55 (membrane) "gaming" keyboard, a Logitech G203 "gaming" mouse, and a Westinghouse TV from years ago.
 
-## upgrades? upgrades.
+## upgrades? upgrades
 
-this computer is too confined for my usages - the graphics don't work very well on games, not to mention it uses 2GB of my RAM as VRAM, so i'm always using at least 70% of the RAM in the machine just doing usual business (that might just be Windows though).
+i am currently planning on upgrading the storage first. most likely through a 1TB SSD, as i can't really stand hard drives now (once you go SSD, you can't go back).
 
-on the 20th of January I bought a CyberpowerPC tower, which should be arriving a few days after. the specs are around average - i5-10400F, 1660 Super, 8GB RAM, 500GB SSD. still miles better than my current setup!
+once that gets done, a RAM upgrade is next on the list, and then I probably won't touch it for a year or two. it already runs my games at good framerates on 1080p, so no change is needed unless i just want to spend money for the hell of it.
